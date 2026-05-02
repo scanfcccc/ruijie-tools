@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+desktop.ini
+Thumbs.db
+
+# 输出文件（程序生成的报表）
+output/
+
+# 运行日志
+logs/
+
+# 归档压缩包
+archive/
+
+# 设备清单中的敏感信息
+data/设备登录信息表.csv
