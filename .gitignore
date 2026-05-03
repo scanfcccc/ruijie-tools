@@ -5,7 +5,7 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-
+data/
 # 编辑器
 .vscode/
 .idea/
