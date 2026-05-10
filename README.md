@@ -15,6 +15,7 @@
 | `BookStack导入/bookstack-importer.py` | 结果上传BookStack |
 | `AP邻居解析/ap-neighbor-parser.py` | AP邻居识别 |
 | `锐捷AP信息/ruijie-ap-info.py` | AP信息提取 |
+| `锐捷AP统计/parse_ap_logs.py` | AC离线报告生成（产品统计+离线AP明细） |
 
 ## 使用方法
 
